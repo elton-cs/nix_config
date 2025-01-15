@@ -4,9 +4,9 @@ let
     helix
     git
     lazygit
-    cargo
-    rustc
     nil
+    gh
+    fenix.stable.toolchain
   ];
 in
   system_packages
